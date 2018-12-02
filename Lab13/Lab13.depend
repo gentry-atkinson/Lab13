@@ -23,3 +23,15 @@
 1543775667 source:/home/gentry/Desktop/Lab 13/Lab13/src/Analyzer.cpp
 	"Analyzer.h"
 
+1543776918 source:/home/gentry/Lab13/Lab13/main.cpp
+	<iostream>
+	"Analyzer.h"
+
+1543776918 /home/gentry/Lab13/Lab13/include/Analyzer.h
+	"SecretNumber.h"
+
+1543776918 /home/gentry/Lab13/Lab13/include/SecretNumber.h
+
+1543776918 source:/home/gentry/Lab13/Lab13/src/Analyzer.cpp
+	"Analyzer.h"
+
