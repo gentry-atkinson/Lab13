@@ -34,9 +34,9 @@ int main()
     cout << " even." << endl;
 
     cout << "My secret number is ";
-    if (!myAnalyzer.isBiggerThan5())
+    if (!myAnalyzer.isBiggerThan4())
         cout << "not";
-    cout << " bigger then 5." << endl;
+    cout << " bigger then 4." << endl;
 
     cout << "My secret number is: " << /*Fill in your guess*/" " << endl;
 

@@ -53,10 +53,10 @@ bool Analyzer::isFibonacci(int a, int b){
     return isFibonacci(b, a+b);
 }
 
-bool Analyzer::isBiggerThan5(){
+bool Analyzer::isBiggerThan4(){
     /**********************************
     This method should return true if number is bigger than
-    the number 5.
+    the number 4.
     **********************************/
 
     if (/*fill in this condition*/ true)

@@ -9,7 +9,7 @@ class Analyzer
         Analyzer();
         bool isPrime(int i = 2);
         bool isFibonacci(int a = 0, int b = 1);
-        bool isBiggerThan5();
+        bool isBiggerThan4();
         bool isEven();
         int getNumber();
 
