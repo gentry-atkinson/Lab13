@@ -9,7 +9,7 @@ Analyzer::Analyzer()
 bool Analyzer::isPrime(int i){
     /**********************************
     This method should return true if number is prime.
-    We are goig to implement this method recursively.
+    We are going to implement this method recursively.
     Fill in all the missing portions.
     **********************************/
 

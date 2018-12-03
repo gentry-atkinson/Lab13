@@ -35,3 +35,21 @@
 1543776918 source:/home/gentry/Lab13/Lab13/src/Analyzer.cpp
 	"Analyzer.h"
 
+1543878642 source:c:\users\gma23\desktop\lab13\lab13\main.cpp
+	<iostream>
+	"Analyzer.h"
+
+1543878642 c:\users\gma23\desktop\lab13\lab13\include\analyzer.h
+	"SecretNumber.h"
+
+1543878642 c:\users\gma23\desktop\lab13\lab13\include\secretnumber.h
+
+1543879237 source:c:\users\gma23\desktop\lab13\lab13\src\analyzer.cpp
+	"Analyzer.h"
+
+1543878854 source:c:\users\gma23\desktop\lab13\lab13\src\secretnumber.cpp
+	"SecretNumber.h"
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
