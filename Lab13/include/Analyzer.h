@@ -11,7 +11,6 @@ class Analyzer
         bool isFibonacci(int a = 0, int b = 1);
         bool isBiggerThan4();
         bool isEven();
-        int getNumber();
 
     private:
         SecretNumber number;

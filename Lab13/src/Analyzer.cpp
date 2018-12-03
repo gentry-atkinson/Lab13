@@ -5,7 +5,6 @@ Analyzer::Analyzer()
 
 }
 
-int Analyzer::getNumber() {return number.getNumber();}
 
 bool Analyzer::isPrime(int i){
     /**********************************

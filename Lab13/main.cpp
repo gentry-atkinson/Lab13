@@ -16,8 +16,6 @@ int main()
     ***********************/
     Analyzer myAnalyzer;
 
-    cout << "My secret number is: " << myAnalyzer.getNumber() << endl;
-
     cout << "My secret number is ";
     if (!myAnalyzer.isPrime())
         cout << "not";
