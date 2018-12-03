@@ -2,8 +2,16 @@
 
 Analyzer::Analyzer()
 {
-
+    //Constructor
+    //Nothing needed here.
 }
+
+/**********************************
+Use number.getNumber() to reference the value of your secret number.
+Correctly filling in these functions will give you all the clues
+you need to guess the secret.
+**********************************/
+
 
 
 bool Analyzer::isPrime(int i){

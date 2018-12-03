@@ -6,11 +6,17 @@ class SecretNumber
 {
     public:
         SecretNumber();
+
+        //Getter functions returns the secret number
         int getNumber();
 
     private:
         int number;
+
+        //Lower Bound: the lowest possible value
         static const int lowerBound = 1;
+
+        //Upper Bound: the highest possible value
         static const int upperBound = 10;
 };
 
